@@ -8,6 +8,6 @@ div.tag-1 {
   display:none;
 }
 
-.parent > #tag-4 {
+.parent {
   display:none;
 }
